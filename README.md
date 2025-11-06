@@ -1,4 +1,4 @@
-HF PAC Specific Aim 1a: Sacubitril/Valsartan Use Across Transitions between Community, Hospital, and Skilled Nursing Facility Settings
+# Sacubitril/Valsartan Use Across Transitions between Community, Hospital, and Skilled Nursing Facility Settings
 
 To start, see main-documentation.xlsx. This file contains information on:
 - authorship
